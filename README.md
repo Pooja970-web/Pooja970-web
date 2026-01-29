@@ -12,10 +12,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA student interested in web development  
-- 💻 Building modern & responsive web applications  
-- 🌱 Currently learning React & JavaScript  
-- 💼 Open to internships and entry-level jobs
+- 🎓 MCA student with strong interest in software development  
+- 💻 Web Developer with knowledge of React & JavaScript  
+- ☕ Comfortable with **Java** and currently learning **Data Structures & Algorithms (DSA)**  
+- 🌱 Improving problem-solving skills alongside frontend development  
+- 💼 Open to internships and entry-level job opportunities
 
 ---
 
