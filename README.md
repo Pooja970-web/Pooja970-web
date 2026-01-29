@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,100:0a192f&height=200&section=header&text=Pooja%20%7C%20Web%20Developer&fontSize=38&fontColor=ffffff)
 
-<!--
-**Pooja970-web/Pooja970-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pooja</h1>
+<h3 align="center">MCA Student | Web Developer | React & JavaScript</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+modern+web+applications;Learning+React+every+day;Open+to+Internships+%26+Jobs&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MCA student interested in web development  
+- 💻 Building modern & responsive web applications  
+- 🌱 Currently learning React & JavaScript  
+- 💼 Open to internships and entry-level jobs
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode" />
+
+---
+
+## 📂 Projects
+
+- **React Hook Form Validation**  
+  Form validation using react-hook-form with regex and error handling.
+
+---
+
+⭐ Thanks for visiting my profile!
